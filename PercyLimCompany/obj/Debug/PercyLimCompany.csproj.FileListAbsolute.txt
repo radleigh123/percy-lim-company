@@ -1,0 +1,10 @@
+D:\Users\For WEBTOON\PROGRAMMING\C#\PercyLimCompany\PercyLimCompany\bin\Debug\PercyLimCompany.exe
+D:\Users\For WEBTOON\PROGRAMMING\C#\PercyLimCompany\PercyLimCompany\bin\Debug\PercyLimCompany.pdb
+D:\Users\For WEBTOON\PROGRAMMING\C#\PercyLimCompany\PercyLimCompany\obj\Debug\PercyLimCompany.csproj.AssemblyReference.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\PercyLimCompany\PercyLimCompany\obj\Debug\PercyLimCompany.Form1.resources
+D:\Users\For WEBTOON\PROGRAMMING\C#\PercyLimCompany\PercyLimCompany\obj\Debug\PercyLimCompany.Properties.Resources.resources
+D:\Users\For WEBTOON\PROGRAMMING\C#\PercyLimCompany\PercyLimCompany\obj\Debug\PercyLimCompany.csproj.GenerateResource.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\PercyLimCompany\PercyLimCompany\obj\Debug\PercyLimCompany.csproj.CoreCompileInputs.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\PercyLimCompany\PercyLimCompany\obj\Debug\PercyLimCompany.exe
+D:\Users\For WEBTOON\PROGRAMMING\C#\PercyLimCompany\PercyLimCompany\obj\Debug\PercyLimCompany.pdb
+D:\Users\For WEBTOON\PROGRAMMING\C#\PercyLimCompany\PercyLimCompany\obj\Debug\PercyLimCompany.Form2.resources
